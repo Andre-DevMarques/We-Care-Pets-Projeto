@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Montserrat", serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+
+    margin: 35px 0 55px 76px;
+
+}
+
+.link-header {
+
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+    text-decoration: none;
+}
+
+.logo-img {
+
+    
+    height: 50%;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+.button-header {
+
+    font-weight: 600;
+    background-color: #665AE1;
+    border-radius: 20px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    cursor: pointer;
+    size: 24px;
+    color: #FFFFFF;
+
+}
+
+h1 {
+
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151;
+    
+}
+
+h2 {
+
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 70px;
+    color: #515151;
+
+}
+
+p {
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+    
+
+}
+
+.button-explore {
+
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+    border-radius: 20.5px;
+    width: 239px;
+    height: 64px;
+    background-color: #ADFF00;
+    border: none;
+    display: inline-block;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0));
+
+}
+
+div {
+
+    display: inline-block;
+    margin-left: 86px;
+
+
+}
+
+@media screen and (max-width: 980px) {
+
+    .caixa{
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+
+    }
+
+    .link-header{
+
+       display: none;
+
+    }
+
+    .button-header{
+
+        display: none;
+
+    }
+
+    img{
+
+       max-width: 90%; 
+       
+    }
+    .logo-img{
+
+        margin: 0;
+
+    }
+
+    div{
+        margin: 0;
+    }
+
+    h1{
+
+        font-size: 60px;
+        line-height: 60px;
+        text-align: center;
+  /*      margin: 13px 30px;*/
+  /*      margin-right: 10px; */
+
+    }
+
+    h2{
+
+        font-size: 30px;
+        line-height: 36px;
+        text-align: center;
+        margin-bottom: 10px;
+        
+    }
+
+    p{
+
+        display: none;
+
+    }
+
+    .button-explore{
+
+        margin-left: 40px;
+
+    }
+
+   
+    
+}
+
+
+

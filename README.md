@@ -4,7 +4,10 @@
 
 <img src="https://github.com/Andre-DevMarques/We-Care-Pets-Projeto/blob/main/img/Site-pc.PNG?raw=true">
 
-<h3>Tecnologias usadas<h3/>
+<br>
+
+<img src="https://github.com/Andre-DevMarques/We-Care-Pets-Projeto/blob/main/img/Site-mobile.PNG">
+<h4>Tecnologias usadas<h4/>
   
 <ul>
   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</li>

@@ -3,10 +3,6 @@
 <h2>Esse foi um projeto que fiz no DevClub</h2>
 
 <img src="https://github.com/Andre-DevMarques/We-Care-Pets-Projeto/blob/main/img/Site-pc.PNG?raw=true">
-
-<br>
-
-<img src="https://github.com/Andre-DevMarques/We-Care-Pets-Projeto/blob/main/img/Site-mobile.PNG">
 <h4>Tecnologias usadas<h4/>
   
 <ul>
